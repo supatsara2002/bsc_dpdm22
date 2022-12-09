@@ -1,2 +1,8 @@
 # bsc_dpdm22
 วิชา SC663403  Data Preparation and Data Mining ของ ศุภัสรา คุริรัง
+
+- Midterm (data preprocessing ปฏิบัติ (กลุ่ม))  20%
+- Final (ทฤษฏี data mining เดี่ยว)30%
+- Project (data preprocessing + data mining (กลุ่ม))20%
+- Homework (แบ่งกลุ่มใหม่ทุกครั้ง) 20%
+- Quiz (ถามเดี่ยวในห้อง) 10%
